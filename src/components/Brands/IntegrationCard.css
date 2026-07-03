@@ -26,12 +26,13 @@
   
     .Integration-card
      {
+      display: grid;
       grid-template-columns: 1fr;
       gap:15px;
       justify-content:center;
       align-items: center;
       width: 95%;
-      margin:0px 120px;
+      margin:0px 40px;
 
     }
     .inte-card img{
