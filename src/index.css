@@ -21,3 +21,8 @@ button {
   cursor: pointer;
   border: none;
 }
+
+html,body, #root
+{
+  overflow-x: hidden;
+}
