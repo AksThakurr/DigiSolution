@@ -32,14 +32,19 @@
       display: grid;
       grid-template-columns: 1fr 1fr  ;
       gap:15px;
-      justify-content:center;
-      align-items: center;
-      width: 95%;
-      margin:0px 40px;
 
     }
+      .Integration-div h1{
+    font-size: 15px;
+    font-size: 600;
+    letter-spacing:0px;
+    padding: 10px;
+     }
+     .Integration-div p{
+    font-size: 10px;
+     }
 }
-@media (max-width:576px)
+@media (max-width:476px)
 {
      .Integration-div h1{
     font-size: 15px;
