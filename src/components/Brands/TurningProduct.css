@@ -1,0 +1,26 @@
+.TurningProduct-main
+{
+     width: 100%;
+     background-color: #F4F4F4;
+     margin-top: 50px ;
+     display: flex;
+     justify-content: center;
+
+}
+.TurningProduct-content{
+              padding: 30px;
+              text-align: center;
+}
+.TurningProduct-content h1
+{
+      font-size: 30px;
+      
+}
+.TurningProduct-content span
+{
+    color:#3559C7;
+}
+.TurningProduct-content img{
+      margin-top: 30px;
+}
+

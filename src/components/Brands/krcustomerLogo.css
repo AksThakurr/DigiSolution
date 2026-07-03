@@ -1,0 +1,14 @@
+.card-logo
+{
+    display: flex;
+    gap:10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.card-logo span{
+          background-image: url("../../assets/images/KVector.png");
+          background-size: cover;
+          width:40px;
+          height:40px;
+          padding:10px;
+}

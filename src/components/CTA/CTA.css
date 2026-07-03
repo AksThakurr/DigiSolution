@@ -1,0 +1,129 @@
+.cta-main
+{
+    width: 100%;
+    height: 508px;
+
+}
+.cta-box{
+           margin: 5%;
+           width: 90%;
+           height: 430px;
+           /* background-image: ; */
+            background: linear-gradient(96.18deg, #16D960 -8.83%, #202C51 85.59%);
+            border-radius: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+}
+.cta-left
+{
+    width: 47%;
+   padding: 20px;
+   height: auto;
+}
+.cta-left h1{
+       font-size: 35px;
+       color: #f7f7f7;
+       padding: 15px;
+}
+.cta-left p
+{
+    font-size: 20px;
+     color: #f7f7f7;
+      padding: 15px;
+}
+.cta-left button{
+    padding: 14px 28px;
+    border: 1px solid #f7f7f7 ;
+    color: #f7f7f7;
+    border-radius: 10px ;
+     margin: 15px;
+}
+
+.cta-right
+{
+     width:48%;
+}
+.cta-right img{
+    width: 90%;
+    height: 340px;
+     border-radius: 20px;
+   
+}
+@media (max-width: 768px) {
+
+   .cta-box{
+           margin: 2.5%;
+           height: 330px;
+           /* background-image: ; */
+            background: linear-gradient(96.18deg, #16D960 -8.83%, #202C51 85.59%);
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+       }
+       .cta-left h1{
+       font-size: 25px;
+       color: #f7f7f7;
+       padding: 10px;
+       }
+    .cta-left p
+    {
+      font-size: 12px;
+       color: #f7f7f7;
+      padding: 10px;
+     }
+   .cta-left button{
+       padding: 12px 24px;
+       border: 1px solid #f7f7f7 ;
+       color: #f7f7f7;
+       border-radius: 10px ;
+        margin: 15px;
+    }
+    .cta-right img{
+         width:390px;
+         height: 240px;
+         border-radius: 14px;
+   
+}
+}
+@media (max-width: 568px) {
+
+   .cta-box{
+           margin: 2.5%;
+           height: 330px;
+           /* background-image: ; */
+            background: linear-gradient(96.18deg, #16D960 -8.83%, #202C51 85.59%);
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+       }
+       .cta-left h1{
+       font-size: 15px;
+       color: #f7f7f7;
+       padding: 7px;
+       }
+    .cta-left p
+    {
+      font-size: 8px;
+       color: #f7f7f7;
+      padding: 7px;
+     }
+   .cta-left button{
+       padding: 7px 12px;
+       border: 1px solid #f7f7f7 ;
+       color: #f7f7f7;
+       border-radius: 10px ;
+       font-size: 8px;
+        margin: 15px;
+    }
+    .cta-right img{
+         width:180px;
+         height: 150px;
+         border-radius: 14px;
+   
+}
+}
+

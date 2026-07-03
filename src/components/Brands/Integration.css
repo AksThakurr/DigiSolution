@@ -1,0 +1,41 @@
+.Integration-div
+{
+    margin: 20px;
+    text-align: center;
+}
+.Integration-div h1{
+    font-size: 30px;
+    font-size: 600;
+    color:#20282C;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+.Integration-div p{
+    font-size: 15px;
+}
+.Integration-card
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    gap:4px;
+    justify-content:center;
+    align-items: center;
+    width: 95%;
+    margin: 0 40px;
+
+}
+
+@media (max-width:950px) {
+  
+    .Integration-card
+     {
+      display: grid;
+      grid-template-columns: 1fr 1fr  ;
+      gap:15px;
+      justify-content:center;
+      align-items: center;
+      width: 95%;
+      margin:0px 40px;
+
+    }
+}

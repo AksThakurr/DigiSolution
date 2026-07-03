@@ -1,0 +1,49 @@
+.inte-card
+{
+    width:300px;
+    height:250px;
+    /* background-color: blueviolet; */
+    background-image: url("../../assets/images/Rectangle38.png");
+    background-size: cover;
+    border-radius: 15px;
+    text-align: center;
+}
+.inte-card h1{
+   padding-top: 30px;
+   font-size: 18px;
+   font-weight: 600;
+   letter-spacing: 1px;
+}
+.inte-card img{
+    margin: 40px 60px;
+    align-items: center;
+     width: 180px;
+     height: 90px;
+}
+
+/* mobile */
+@media (max-width:676px) {
+  
+    .Integration-card
+     {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap:15px;
+      justify-content:center;
+      align-items: center;
+      width: 95%;
+      margin:0px 40px;
+
+    }
+    .inte-card img{
+    margin: 40px 100px;
+     width: 100px;
+     height: 60px;
+     }
+     .inte-card h1{
+      font-size: 15px;
+     font-weight: 600;
+      letter-spacing: 0px;
+}
+     
+}
