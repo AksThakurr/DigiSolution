@@ -1,12 +1,12 @@
 import "./krcustomerLogo.css";
-import k from "../../assets/images/K.png";
+import klogo from "../../assets/images/klogo.png";
 import logoname from "../../assets/images/logoname.png";
 function KrcustomerLogo()
 {
     return (
     <>
          <div className="card-logo">
-             <span> <img src={k} alt="img" /></span>
+             <span> <img src={klogo} alt="img" /></span>
             <img src={logoname} alt="img" />
         </div>
     </>
