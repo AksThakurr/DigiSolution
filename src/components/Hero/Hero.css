@@ -76,7 +76,7 @@
 }
 
 /* Tablet */
-@media (max-width: 768px) {
+@media (max-width:1024px) {
   .hero-container {
     flex-direction: column;
     text-align: center;
@@ -96,10 +96,9 @@
 }
 
 /* Mobile */
-@media (max-width: 576px) {
+@media (max-width:768px) {
   .hero-container {
-    padding: 0 20px;
-    margin: 30px;
+    margin: 20px;
   }
 
   .hero-title {

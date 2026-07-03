@@ -22,17 +22,16 @@
 }
 
 /* mobile */
-@media (max-width:676px) {
+@media (max-width:768px) {
   
     .Integration-card
      {
-      display: grid;
       grid-template-columns: 1fr;
       gap:15px;
       justify-content:center;
       align-items: center;
       width: 95%;
-      margin:0px 40px;
+      margin:0px 120px;
 
     }
     .inte-card img{
