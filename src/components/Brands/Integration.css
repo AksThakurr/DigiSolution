@@ -5,7 +5,7 @@
 }
 .Integration-div h1{
     font-size: 30px;
-    font-size: 600;
+    font-weight: 600;
     color:#20282C;
     letter-spacing: 1px;
     padding: 10px;
@@ -34,9 +34,9 @@
       gap:15px;
 
     }
-      .Integration-div h1{
-    font-size: 15px;
-    font-size: 200;
+    .Integration-div h1{
+    font-size: 17px;
+    font-weight:600;
     letter-spacing:0px;
     padding: 10px;
      }
@@ -48,7 +48,7 @@
 {
      .Integration-div h1{
     font-size: 15px;
-    font-size: 200;
+    font-weight:600;
     letter-spacing:0px;
     padding: 10px;
      }
