@@ -100,7 +100,9 @@
   .hero-container {
     margin: 20px;
   }
-
+   .hero-left{
+               margin: 5px 40px 5px 2px;   
+     }
   .hero-title {
     font-size: 15px;
   }
