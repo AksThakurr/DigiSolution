@@ -1,7 +1,6 @@
 import "./brands.css"
 import topbrandimg1 from"../../assets/images/topbrandimg1.png";
 import topbrandimg2 from "../../assets/images/topbrandimg2.png";
-
 import CardInfo from "./CradInfo";
 import topdiv1 from "../../assets/images/topdiv1.png";
 import topdiv2 from "../../assets/images/topdiv2.png";

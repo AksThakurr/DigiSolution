@@ -1,5 +1,5 @@
 import "./krcustomerLogo.css";
-import k from "../../assets/images/k.png";
+import k from "../../assets/images/K.png";
 import logoname from "../../assets/images/logoname.png";
 function KrcustomerLogo()
 {
