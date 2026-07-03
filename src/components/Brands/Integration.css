@@ -39,3 +39,15 @@
 
     }
 }
+@media (max-width:576px)
+{
+     .Integration-div h1{
+    font-size: 15px;
+    font-size: 600;
+    letter-spacing:0px;
+    padding: 10px;
+     }
+     .Integration-div p{
+    font-size: 10px;
+     }
+}
